@@ -1,6 +1,6 @@
 # Mail
 
-A single-page email client built with **Django** and **JavaScript**. Users can register, log in, and send, receive, read, archive, and reply to emails, all without page reloads. (Project 3 of CS50's Web Programming with Python and JavaScript.)
+A single-page email client built with **Django** and **JavaScript**. Users can register, log in, and send, receive, read, archive, and reply to emails, all without page reloads. 
 ![Screenshot of the app](mail-image.png)
 ## Features
 
